@@ -1,5 +1,5 @@
 // Mehmet Ali Han Tutuk
-// 150160106
+
 #include <iostream>
 #include <stdlib.h>
 #include <fstream>
@@ -151,7 +151,7 @@ int main(int argc,char ** argv){
 
 	delete [] array;
 	return 0;
-}/////////////////Main end
+}
 
 
 void Solve(int W, int weights[], int values[], int n, Data* array){ //Dynamic approach
