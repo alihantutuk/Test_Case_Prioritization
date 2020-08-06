@@ -12,11 +12,9 @@ Example command line arguments given.(data.txt)
 
 **Important Note: I defined the constants for;**
 
-Max Test Suit Number: 100
-
-Max Test Case Number: 50
-
+Max Test Suit Number: 100 
+Max Test Case Number: 50 
 If the given values greater than those number, the program will not work.
 
-Compile:  g++ main.cpp -std=c++11
+Compile:  g++ main.cpp -std=c++11 
 Run    :  ./a.out data.txt
